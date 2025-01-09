@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.0e33a57b.css",
+    "main.js": "/portfolio/static/js/main.a5dd8acd.js",
+    "static/media/worldwise.png": "/portfolio/static/media/worldwise.eb40d45a5de458964384.png",
+    "static/media/image4.jpg": "/portfolio/static/media/image4.1b336ad8668953c0a113.jpg",
+    "static/media/pizza.png": "/portfolio/static/media/pizza.542cbcc2bdfb43ed8884.png",
+    "static/media/popcorn.png": "/portfolio/static/media/popcorn.d23bf2dbf068e64dbdae.png",
+    "static/media/react.png": "/portfolio/static/media/react.6d43f201e7806a91be8a.png",
+    "index.html": "/portfolio/index.html",
+    "main.0e33a57b.css.map": "/portfolio/static/css/main.0e33a57b.css.map",
+    "main.a5dd8acd.js.map": "/portfolio/static/js/main.a5dd8acd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e33a57b.css",
+    "static/js/main.a5dd8acd.js"
+  ]
+}
